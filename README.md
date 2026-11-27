@@ -1,4 +1,4 @@
-# <p align="center">🎓 Smart Coaching Institute App </p>
+# <p align="center">🎓 Smart Coaching Institute</p>
 
 <p align="center">
   <strong>A Digital Platform for Coaching Institute Management & Student Learning</strong>
