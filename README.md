@@ -438,7 +438,7 @@ Install the following:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Smart-Coaching-Institute-App.git
+git clone https://github.com/saurabhgore2007/Smart-Coaching-Institute.git
 ```
 
 ### 2️⃣ Open the Project
