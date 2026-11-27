@@ -232,7 +232,7 @@ The following sample accounts are provided for demonstration and testing.
 | 👤 Account Type | 📧 Email Address | 🔑 Password |
 |---|---|---|
 | 👨‍💼 Admin | `admin.test@gmail.com` | `Admin@123` |
-| 🎓 Student | `saurabhgore44@gmail.com` | `123456` |
+| 🎓 Student | `shreyas@gmail.com` | `123456` |
 
 ### 👨‍💼 Admin Account
 
@@ -245,7 +245,7 @@ Panel:    Admin Panel
 ### 🎓 Student Account
 
 ```text
-Email:    saurabhgore44@gmail.com
+Email:    shreyas@gmail.com
 Password: 123456
 Panel:    Student Panel
 ```
