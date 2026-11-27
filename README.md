@@ -1,4 +1,4 @@
-# 🎓 Smart Coaching Institute App
+# <p align="center">🎓 Smart Coaching Institute App </p>
 
 <p align="center">
   <strong>A Digital Platform for Coaching Institute Management & Student Learning</strong>
